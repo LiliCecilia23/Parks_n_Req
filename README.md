@@ -3,7 +3,7 @@
  This web application is a redesigned camping reservation/park information application inspired by the Texas State Parks reservation system. It is designed to elevate the user experience and streamline the process to be efficient and simple. 
 
  ### [Check it out!](salty-hamlet-73070.herokuapp.com/) 
-<img src="./public/img/parks_n_req.png">
+<img src="https://images-ext-1.discordapp.net/external/MCs93q1oMnTzqboAuhv99IIapeJ3MinL04t-G9o0HAA/https/res.cloudinary.com/dkdwgbmxs/image/upload/v1611869231/parks_n_req_qlhe6k.png?width=616&height=468">
 
  ## Use 
  Load the web app in your browser and scroll down to the image map. Each of the red pins notates a park. Click on desired red pin and a modal will pop up with the parks name and the option to view that parks page or close the modal to choose another park.
@@ -41,21 +41,21 @@ node server
 and it open the browser and run the application
 
  ## Technologies Used
- ▹ HTML5
- ▹ CSS3
- ▹ Bootstrap4
- ▹ ScrollTrigger By GSAP
- ▹ JavaScript
- ▹ jQuery
- ▹ MySQL
- ▹ Sequelize
- ▹ Node.js
- ▹ Express.js
+ * HTML5
+ * CSS3
+ * Bootstrap4
+ * ScrollTrigger By GSAP
+ * JavaScript
+ * jQuery
+ * MySQL
+ * Sequelize
+ * Node.js
+ * Express.js
 
   ## Contributors 
- ◇ Steve Rodriguez : Back-end 
- ◇ Lili Clift : Back-end & Front-end 
- ◇ Ashli Hanson : Front-end 
- ◇ Nay Wilkins : Front-end 
+ * Steve Rodriguez : Back-end 
+ * Lili Clift : Back-end & Front-end 
+ * Ashli Hanson : Front-end 
+ * Nay Wilkins : Front-end 
  ## License  [![License: Unlicense](https://img.shields.io/badge/license-Unlicense-blue.svg)](http://unlicense.org/) 
  Copyright (c) 2020 Parks_n_Req Licensed under the Unlicense license.
